@@ -1,5 +1,3 @@
-# Hi there, I'm Yucel Yavuz 👋
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yucel--yavuz.github.io-teal?style=for-the-badge&logo=github)](https://yucel-yavuz.github.io)
